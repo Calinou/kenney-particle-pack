@@ -19,7 +19,7 @@ package that also contains Unity presets.
 - Navigate to the **AssetLib** tab at the top of the editor and search for
   "kenney particle pack".
 - Install the
-  [*Kenney Particle Pack*](https://godotengine.org/asset-library/asset/782)
+  [*Kenney Particle Pack*](https://godotengine.org/asset-library/asset/783)
   plugin. Keep all files checked during installation.
 - Textures are now availables in `addons/kenney_particle_pack/`.
 
