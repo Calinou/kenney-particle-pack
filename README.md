@@ -11,6 +11,10 @@ This package includes 80 sprites for particles, light cookies and shaders.
 See [this page](https://kenney.nl/assets/particle-pack) for the full
 package that also contains Unity presets.
 
+*Support the original artist to create more free game assets:*
+
+[![Support game assets!](https://kenney.nl/data/oga/donation.png)](http://donate.kenney.nl/)
+
 ## Installation
 
 ### Using the Asset Library
